@@ -1,0 +1,14 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\bin\Debug\HelloWorld.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\obj\Debug\HelloWorld.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Hello World\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\bin\Debug\HelloWorld.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\obj\Debug\HelloWorld.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\01-Hello World\HelloWorld\obj\Debug\HelloWorld.pdb

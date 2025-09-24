@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\bin\Debug\IfElseOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\bin\Debug\IfElseOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\bin\Debug\IfElseOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\obj\Debug\IfElseOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\obj\Debug\IfElseOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\obj\Debug\IfElseOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\05-If-Else\IfElseOrnegi\obj\Debug\IfElseOrnegi.pdb

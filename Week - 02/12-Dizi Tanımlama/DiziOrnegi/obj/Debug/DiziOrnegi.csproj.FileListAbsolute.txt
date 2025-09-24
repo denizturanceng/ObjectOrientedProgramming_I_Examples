@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\bin\Debug\DiziOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\bin\Debug\DiziOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\bin\Debug\DiziOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\obj\Debug\DiziOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\obj\Debug\DiziOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\obj\Debug\DiziOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\12-Dizi Tanımlama\DiziOrnegi\obj\Debug\DiziOrnegi.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachOrnegi", "ForeachOrnegi.csproj", "{803AEBD6-8F30-4FCB-8ABC-8B6F0EE1EF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803AEBD6-8F30-4FCB-8ABC-8B6F0EE1EF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803AEBD6-8F30-4FCB-8ABC-8B6F0EE1EF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803AEBD6-8F30-4FCB-8ABC-8B6F0EE1EF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803AEBD6-8F30-4FCB-8ABC-8B6F0EE1EF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB372C5B-B627-4102-82F8-67C8E212B186}
+	EndGlobalSection
+EndGlobal

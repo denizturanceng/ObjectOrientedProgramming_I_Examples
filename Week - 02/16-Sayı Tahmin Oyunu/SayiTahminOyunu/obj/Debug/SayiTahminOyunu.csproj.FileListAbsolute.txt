@@ -1,0 +1,14 @@
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\16-Sayı Tahmin Oyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

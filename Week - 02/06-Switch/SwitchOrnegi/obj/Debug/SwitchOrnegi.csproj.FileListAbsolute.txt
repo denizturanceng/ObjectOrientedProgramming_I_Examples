@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\bin\Debug\SwitchOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\bin\Debug\SwitchOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\bin\Debug\SwitchOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\obj\Debug\SwitchOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\obj\Debug\SwitchOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\obj\Debug\SwitchOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\06-Switch\SwitchOrnegi\obj\Debug\SwitchOrnegi.pdb

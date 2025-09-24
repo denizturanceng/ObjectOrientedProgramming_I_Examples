@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\bin\Debug\SabitOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\bin\Debug\SabitOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\bin\Debug\SabitOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\obj\Debug\SabitOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\obj\Debug\SabitOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\obj\Debug\SabitOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\03-Const\SabitOrnegi\obj\Debug\SabitOrnegi.pdb

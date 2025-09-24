@@ -1,0 +1,14 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.pdb
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.exe.config
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\bin\Debug\ForeachOrnegi.pdb
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.csproj.AssemblyReference.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.csproj.CoreCompileInputs.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\09-Foreach\ForeachOrnegi\obj\Debug\ForeachOrnegi.pdb

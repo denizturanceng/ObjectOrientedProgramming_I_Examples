@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\bin\Debug\EnumOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\bin\Debug\EnumOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\bin\Debug\EnumOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\obj\Debug\EnumOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\obj\Debug\EnumOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\obj\Debug\EnumOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\04-Enum\EnumOrnegi\obj\Debug\EnumOrnegi.pdb

@@ -1,0 +1,7 @@
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+D:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\15-Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb

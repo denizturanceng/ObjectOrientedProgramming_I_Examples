@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\bin\Debug\RecursiveOrnek.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\bin\Debug\RecursiveOrnek.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\bin\Debug\RecursiveOrnek.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\obj\Debug\RecursiveOrnek.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\obj\Debug\RecursiveOrnek.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\obj\Debug\RecursiveOrnek.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\11-Rekürsif Faktöriyel\RecursiveOrnek\obj\Debug\RecursiveOrnek.pdb

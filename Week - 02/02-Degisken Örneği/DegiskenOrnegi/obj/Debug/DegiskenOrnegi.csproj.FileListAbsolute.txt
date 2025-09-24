@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\bin\Debug\DegiskenOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\bin\Debug\DegiskenOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\bin\Debug\DegiskenOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\obj\Debug\DegiskenOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\obj\Debug\DegiskenOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\obj\Debug\DegiskenOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Hafta2\Degisken Örneği\DegiskenOrnegi\obj\Debug\DegiskenOrnegi.pdb
