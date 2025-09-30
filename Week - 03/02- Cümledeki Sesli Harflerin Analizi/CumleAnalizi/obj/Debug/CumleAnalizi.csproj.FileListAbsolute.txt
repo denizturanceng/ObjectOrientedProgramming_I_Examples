@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\bin\Debug\CumleAnalizi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\bin\Debug\CumleAnalizi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\bin\Debug\CumleAnalizi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\obj\Debug\CumleAnalizi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\obj\Debug\CumleAnalizi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\obj\Debug\CumleAnalizi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\02- Detaylı String Analizi\CumleAnalizi\obj\Debug\CumleAnalizi.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\bin\Debug\StructOrnegi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\bin\Debug\StructOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\bin\Debug\StructOrnegi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\obj\Debug\StructOrnegi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\obj\Debug\StructOrnegi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\obj\Debug\StructOrnegi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 03\04- Struct Örneği\StructOrnegi\StructOrnegi\obj\Debug\StructOrnegi.pdb

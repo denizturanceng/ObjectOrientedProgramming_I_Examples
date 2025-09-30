@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Work\\Dersler\\Nesneye Y\u00F6nelik Programlama - I\\ObjectOrientedProgramming_I_Examples\\Week - 03\\03- Sesli Harf Sayimi\\sesliHarfSayimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9508AE1B-2B2C-4762-9804-74831A00F1E1}|sesliHarfSayimi.csproj|d:\\github\\work\\dersler\\nesneye y\u00F6nelik programlama - i\\objectorientedprogramming_i_examples\\week - 03\\03- sesli harf sayimi\\sesliharfsayimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9508AE1B-2B2C-4762-9804-74831A00F1E1}|sesliHarfSayimi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Work\\Dersler\\Nesneye Y\u00F6nelik Programlama - I\\ObjectOrientedProgramming_I_Examples\\Week - 03\\03- Sesli Harf Sayimi\\sesliHarfSayimi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Work\\Dersler\\Nesneye Y\u00F6nelik Programlama - I\\ObjectOrientedProgramming_I_Examples\\Week - 03\\03- Sesli Harf Sayimi\\sesliHarfSayimi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:30:11.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
