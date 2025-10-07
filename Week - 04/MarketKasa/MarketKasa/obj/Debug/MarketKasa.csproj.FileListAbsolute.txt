@@ -1,0 +1,14 @@
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.pdb
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.pdb
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.exe.config
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.exe
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\bin\Debug\MarketKasa.pdb
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.csproj.AssemblyReference.cache
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.csproj.CoreCompileInputs.cache
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.exe
+E:\Dersler\Nesneye Yönelik Programlama - I\Örnekler\Week - 04\MarketKasa\MarketKasa\obj\Debug\MarketKasa.pdb

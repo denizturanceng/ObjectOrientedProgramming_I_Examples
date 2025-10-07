@@ -1,0 +1,29 @@
+Senaryo
+
+Bir markette 5 farklı ürün bulunmaktadır:
+Ekmek, Süt, Yumurta, Makarna ve Elma.
+Her ürünün fiyatı önceden belirlenmiştir.
+
+Kullanıcıdan:
+
+Almak istediği ürünün numarası
+
+Almak istediği adet miktarı
+bilgileri alınır.
+
+Her ürün eklendikten sonra ara toplam güncellenir.
+Kullanıcı 0 girerse alışveriş sona erer ve kasaya geçilir.
+
+Son olarak kullanıcıya “Öğrenci misiniz?” sorusu sorulur:
+
+1 girerse %10 indirim uygulanır,
+
+2 girerse indirim yapılmaz.
+
+Programın sonunda:
+
+Toplam tutar,
+
+Varsa indirim,
+
+Ödenecek nihai tutar ekrana yazdırılır.
