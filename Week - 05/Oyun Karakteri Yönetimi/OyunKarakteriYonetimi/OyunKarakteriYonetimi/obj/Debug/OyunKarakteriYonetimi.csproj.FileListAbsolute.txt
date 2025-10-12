@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\bin\Debug\OyunKarakteriYonetimi.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\bin\Debug\OyunKarakteriYonetimi.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\bin\Debug\OyunKarakteriYonetimi.pdb
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\obj\Debug\OyunKarakteriYonetimi.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\obj\Debug\OyunKarakteriYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\obj\Debug\OyunKarakteriYonetimi.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Oyun Karakteri Yönetimi\OyunKarakteriYonetimi\OyunKarakteriYonetimi\obj\Debug\OyunKarakteriYonetimi.pdb

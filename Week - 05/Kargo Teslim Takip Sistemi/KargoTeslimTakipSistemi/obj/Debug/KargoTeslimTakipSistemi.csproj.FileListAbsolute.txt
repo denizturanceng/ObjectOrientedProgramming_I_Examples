@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\bin\Debug\KargoTeslimTakipSistemi.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\bin\Debug\KargoTeslimTakipSistemi.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\bin\Debug\KargoTeslimTakipSistemi.pdb
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\obj\Debug\KargoTeslimTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\obj\Debug\KargoTeslimTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\obj\Debug\KargoTeslimTakipSistemi.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kargo Teslim Takip Sistemi\KargoTeslimTakipSistemi\obj\Debug\KargoTeslimTakipSistemi.pdb

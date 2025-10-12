@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunKarakteriYonetimi", "OyunKarakteriYonetimi.csproj", "{8FDECCE3-1D3F-4C98-8BB0-AD14A28562AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDECCE3-1D3F-4C98-8BB0-AD14A28562AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDECCE3-1D3F-4C98-8BB0-AD14A28562AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDECCE3-1D3F-4C98-8BB0-AD14A28562AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDECCE3-1D3F-4C98-8BB0-AD14A28562AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3327585-9031-4AD1-8681-0C0D409E2A4A}
+	EndGlobalSection
+EndGlobal

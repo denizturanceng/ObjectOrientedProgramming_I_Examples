@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\deniz\Desktop\Github\Dersler\NYP-I\Examples\Week-05\Kütüphane Otomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
