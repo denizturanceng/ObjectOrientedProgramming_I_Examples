@@ -15,7 +15,7 @@ namespace EvFaturaTakipSistemi
         private double suBorc;
 
         // === Constructor (ilk değer atama) ===
-        public Ev(string sahip, double baslangicBakiyesi) // constructor metodu sınıfla aynı isismde olur. Parametre alan değişkenlerin başlangıç değerleri Main metotunun içinde nesne yaratırken atandı 119.satıra bakabilirsiniz.
+        public Ev(string sahip, double baslangicBakiyesi) // constructor metodu sınıfla aynı isimde olur. Parametre alan değişkenlerin başlangıç değerleri Main metotunun içinde nesne yaratırken atandı 119.satıra bakabilirsiniz.
         {
             evSahibi = sahip;
             bakiye = baslangicBakiyesi;
@@ -116,7 +116,8 @@ namespace EvFaturaTakipSistemi
         static void Main() // Arkadaşlar bizim ana metotudmuz Main metotu. program buradan çalışmaya başlıyor. Siz ne kadar yuköarıda sınıf tanımlarsanız tanımlayın Main metodunda çağırmazsanız kullanamazsınız.
         {
             // Constructor ile nesne oluşturuluyor
-            Ev ev1 = new Ev("Cristiano Ronaldo", 1000); // Burada sınıftan nesne yaratılıyor. Ev sınıfından ev1 nesnesini yaratıyoruz.
+            Ev ev1 = new Ev("Cristiano Ronaldo", 1000); // Burada sınıftan nesne yaratılıyor. Ev sınıfından ev1 nesnesini yaratıyoruz. 
+                                                        // Sadece tek nesne yaratmayabiliriz. Siz isterseniz ev2 diye ikinci bir nesne yaratıp örneği geliştirebilirsiniz.
                                                         // Constructor(yapıcı model) kullandığımız için de başlangıç değerlerini atayabildik. Siz Ronaldo yerine kendi isminizi yazabilirsiniz :)
 
             ev1.FaturaEkle("elektrik", 300); // metot için parametre geçiyoruz. FaturaEkle metoduna bakltığınızda verdiğimiz parametreye göre yönlendirme bariz şekilde belli oluyor. Aşağıdaki diğer metotlar da aynı şekilde.
