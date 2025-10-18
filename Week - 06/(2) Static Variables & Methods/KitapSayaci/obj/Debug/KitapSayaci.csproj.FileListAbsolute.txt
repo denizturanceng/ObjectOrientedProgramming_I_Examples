@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\bin\Debug\KitapSayaci.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\bin\Debug\KitapSayaci.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\bin\Debug\KitapSayaci.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\obj\Debug\KitapSayaci.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\obj\Debug\KitapSayaci.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\obj\Debug\KitapSayaci.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(2) Static Variables & Methods\KitapSayaci\obj\Debug\KitapSayaci.pdb
