@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\bin\Debug\Hayvanlar.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\bin\Debug\Hayvanlar.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\bin\Debug\Hayvanlar.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\obj\Debug\Hayvanlar.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\obj\Debug\Hayvanlar.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\obj\Debug\Hayvanlar.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(3) Inheritence\Hayvanlar\obj\Debug\Hayvanlar.pdb
