@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\bin\Debug\EvFaturaTakipSistemi.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\bin\Debug\EvFaturaTakipSistemi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\bin\Debug\EvFaturaTakipSistemi.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\obj\Debug\EvFaturaTakipSistemi.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\obj\Debug\EvFaturaTakipSistemi.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\obj\Debug\EvFaturaTakipSistemi.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\Constructor & Encapsulation\EvFaturaTakipSistemi\obj\Debug\EvFaturaTakipSistemi.pdb
