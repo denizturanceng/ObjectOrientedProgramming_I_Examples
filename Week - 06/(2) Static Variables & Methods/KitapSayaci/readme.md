@@ -32,11 +32,11 @@ Bunu static sayaç kullanarak çözebiliriz.
 ## 3.Kod Açıklamaları
 
 ### Kısım	                              ----------------->         Açıklama
-> public static int ToplamKitapSayisi	  ----------------->         Tüm kitaplar arasında ortak sayaç
-> ToplamKitapSayisi++	                  ----------------->         Her yeni kitap nesnesinde sayaç 1 artar
-> public static void SayaciYazdir()	    ----------------->         Static metot, nesne oluşturmadan çağrılır
-> BilgiYazdir()	                        ----------------->         Nesneye ait kitap adını gösterir
-> new Kitap(...)	                       ----------------->         Constructor’ı çalıştırarak static değişkeni artırır
+#### public static int ToplamKitapSayisi	  ----------------->         Tüm kitaplar arasında ortak sayaç
+#### ToplamKitapSayisi++	                  ----------------->         Her yeni kitap nesnesinde sayaç 1 artar
+#### public static void SayaciYazdir()	    ----------------->         Static metot, nesne oluşturmadan çağrılır
+#### BilgiYazdir()	                        ----------------->         Nesneye ait kitap adını gösterir
+#### new Kitap(...)	                       ----------------->         Constructor’ı çalıştırarak static değişkeni artırır
 
 
 ## Not
