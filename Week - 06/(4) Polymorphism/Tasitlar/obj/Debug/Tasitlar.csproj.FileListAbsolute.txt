@@ -1,0 +1,7 @@
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\bin\Debug\Tasitlar.exe.config
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\bin\Debug\Tasitlar.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\bin\Debug\Tasitlar.pdb
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\obj\Debug\Tasitlar.csproj.AssemblyReference.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\obj\Debug\Tasitlar.csproj.CoreCompileInputs.cache
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\obj\Debug\Tasitlar.exe
+D:\GitHub\Work\Dersler\Nesneye Yönelik Programlama - I\ObjectOrientedProgramming_I_Examples\Week - 06\(4) Polymorphism\Tasitlar\obj\Debug\Tasitlar.pdb
