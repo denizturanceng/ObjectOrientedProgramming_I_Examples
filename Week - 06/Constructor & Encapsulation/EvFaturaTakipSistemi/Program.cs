@@ -31,7 +31,7 @@ namespace EvFaturaTakipSistemi
             if (miktar > 0)
             {
                 bakiye += miktar;
-                Console.WriteLine($"{miktar} TL yatırıldı. Yeni bakiye: {bakiye} TL");
+                Console.WriteLine(miktar + " TL yatırıldı. Yeni bakiye: "+bakiye +" TL");
             }
             else
             {
@@ -85,13 +85,13 @@ namespace EvFaturaTakipSistemi
             {
                 elektrikBorc -= tutar; // Burada aslında elektrikBorc = elektrikBorc - tutar yaptık. Bunun kısa yazımını yazdım.
                 bakiye -= tutar; // Burada aslında bakiye = bakiye - tutar yaptık. Bunun kısa yazımını yazdım.
-                Console.WriteLine($"Elektrik faturası için {tutar} TL ödendi.");
+                Console.WriteLine("Elektrik faturası için " + tutar+" TL ödendi.");
             }
             else if (tur == "su" && tutar <= suBorc) // aynı classta olduğumuz için private bile olsa suBorc değişkenine erişebiliyoruz.
             {
                 suBorc -= tutar; // Burada aslında suBorc = suBorc - tutar yaptık. Bunun kısa yazımını yazdım.
                 bakiye -= tutar; // Burada aslında bakiye = bakiye - tutar yaptık. Bunun kısa yazımını yazdım.
-                Console.WriteLine($"Su faturası için {tutar} TL ödendi.");
+                Console.WriteLine("Su faturası için " + tutar+" TL ödendi.");
             }
             else
             {
