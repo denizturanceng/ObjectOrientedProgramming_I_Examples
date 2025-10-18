@@ -41,3 +41,7 @@ Amacı, nesnenin **başlangıç değerlerini atamak** ve ilk durumunu hazırlama
 Bu örnekte bir ev sahibine ait elektrik ve su faturaları takip edilmektedir.  
 Veriler (bakiye, borçlar) `private` olarak saklanır; sadece belirli `public` metotlar üzerinden işlem yapılabilir.  
 Ev sahibinin adı ve başlangıç bakiyesi ise constructor ile atanır.
+
+
+## Not
+Arkadaşlar kodu her zamanki gibi program.cs içerisinde bulabilirsiniz. Detaylı yorum satırlarını da ekledim, inceleyebilirsiniz.
