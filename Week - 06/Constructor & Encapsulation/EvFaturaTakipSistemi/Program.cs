@@ -15,7 +15,7 @@ namespace EvFaturaTakipSistemi
         private double suBorc;
 
         // === Constructor (ilk değer atama) ===
-        public Ev(string sahip, double baslangicBakiyesi) // constructer metodu sınıfla aynı isismde olur. Parametre alan değişkenlerin başlangıç değerleri Main metotunun içinde nesne yaratırken atandı 119.satıra bakabilirsiniz.
+        public Ev(string sahip, double baslangicBakiyesi) // constructor metodu sınıfla aynı isismde olur. Parametre alan değişkenlerin başlangıç değerleri Main metotunun içinde nesne yaratırken atandı 119.satıra bakabilirsiniz.
         {
             evSahibi = sahip;
             bakiye = baslangicBakiyesi;
