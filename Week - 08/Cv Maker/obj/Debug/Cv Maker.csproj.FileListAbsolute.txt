@@ -1,0 +1,11 @@
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\bin\Debug\Cv Maker.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\bin\Debug\Cv Maker.exe
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\bin\Debug\Cv Maker.pdb
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv_Maker.Properties.Resources.resources
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.exe
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.pdb
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv Maker.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 08\Cv Maker\obj\Debug\Cv_Maker.Form1.resources

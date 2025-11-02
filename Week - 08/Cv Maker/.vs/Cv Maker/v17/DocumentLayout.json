@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 08\\cv maker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 08\\cv maker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 08\\cv maker\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5512-CA90-42BE-A686-6CAD2CC137B6}|Cv Maker.csproj|solutionrelative:kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Kisi.cs",
+              "RelativeDocumentMoniker": "Kisi.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Kisi.cs",
+              "RelativeToolTip": "Kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:27:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:44:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 08\\Cv Maker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:43:35.375Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
