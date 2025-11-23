@@ -63,10 +63,12 @@ Bu butona tıklandığında karakter oluşturulacak ve güç hesaplanacaktır.
 `Name: lblSonuc`
 
 Bu label içinde aşağıdaki format gösterilecektir:
+`
 Ad: ...
 Tür: ...
 Yaş: ...
 Güç: ...
+`
 
 
 ---
@@ -130,7 +132,7 @@ public class Character
         int guc = 0;
 
         // Buraya hesaplamayı siz yazacaksınız.
-        // Karakter türüne göre güç hesaplama mantığı README içinde verilmiştir.
+        // Karakter türüne göre güç hesaplama mantığını 1.bölümde verdim.
 
         return guc;
     }
