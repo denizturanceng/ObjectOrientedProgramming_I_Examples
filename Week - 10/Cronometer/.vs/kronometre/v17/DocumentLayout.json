@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\kronometre\\",
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 10\\kronometre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 10\\cronometer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 10\\kronometre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFB9D530-0A0F-46FA-9BBE-02E12DE01A2B}|kronometre.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\kronometre\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\kronometre\\Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T19:24:56.122Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\kronometre\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\kronometre\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 10\\Cronometer\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T18:09:28.508Z",

@@ -9,3 +9,14 @@ C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week 
 C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\kronometre\obj\Debug\kronometre.exe
 C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\kronometre\obj\Debug\kronometre.pdb
 C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\kronometre\obj\Debug\kronometre.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\bin\Debug\kronometre.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\bin\Debug\kronometre.exe
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\bin\Debug\kronometre.pdb
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.exe.config
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.Form1.resources
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.exe
+C:\Users\deniz\Desktop\Github\Dersler\ObjectOrientedProgramming_I_Examples\Week - 10\Cronometer\obj\Debug\kronometre.pdb
