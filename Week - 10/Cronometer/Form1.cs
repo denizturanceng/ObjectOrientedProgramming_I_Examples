@@ -79,6 +79,9 @@ namespace kronometre
                 timer.Stop();                      // Timer durdurulur
 
                 // Durdurulduğu ana kadar geçen süre hesaplanır
+                // Stop’a bastığın anda kronometre durur.
+                // O ana kadar geçen süreyi kaydetmen gerekir.
+                // Bunu kaydetmezsen, Start’a tekrar basıldığında kaldığı yerden devam edemez.
                 time = DateTime.Now - startTime;
             }
         }
