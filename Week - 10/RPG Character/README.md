@@ -64,10 +64,10 @@ Bu butona tıklandığında karakter oluşturulacak ve güç hesaplanacaktır.
 
 Bu label içinde aşağıdaki format gösterilecektir:
 
-- **Ad:**
-- **Tür:**
-- **Yaş:** 
-- **Güç:** 
+- **Ad:**...
+- **Tür:**...
+- **Yaş:**...
+- **Güç:**... 
 
 
 ---
