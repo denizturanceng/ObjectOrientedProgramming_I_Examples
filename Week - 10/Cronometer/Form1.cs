@@ -89,7 +89,7 @@ namespace kronometre
             time = TimeSpan.Zero;                  // Süreyi baştan başlat
             startTime = DateTime.Now;              // Yeni başlangıç zamanı şimdi
             lblSayac.Text = "00:00:00";            // Ekranı sıfırla
-            // Not: restart'ta otomatik start yok, istersen buraya timer.Start() ekleyebilirsin
+            
         }
 
     }
