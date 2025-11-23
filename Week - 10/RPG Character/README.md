@@ -63,12 +63,11 @@ Bu butona tıklandığında karakter oluşturulacak ve güç hesaplanacaktır.
 `Name: lblSonuc`
 
 Bu label içinde aşağıdaki format gösterilecektir:
-`
-Ad: ...
-Tür: ...
-Yaş: ...
-Güç: ...
-`
+
+- **Ad:**
+- **Tür:**
+- **Yaş:** 
+- **Güç:** 
 
 
 ---
