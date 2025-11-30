@@ -17,7 +17,7 @@ Bu laboratuvar çalışmasında C# Windows Forms ve Nesneye Yönelik Programlama
 Solution Explorer → Add → Class → VirtualCat.cs
 
 Aşağıdaki kodu ekleyin:
-
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -76,7 +76,7 @@ namespace VirtualCatSimulator
         }
     }
 }
-
+```
 ---------------------------------------------------------
 2. KEDİ GÖRSELLERİNİ EKLE
 ---------------------------------------------------------
@@ -113,7 +113,7 @@ Timer       → timerStats (Interval: 1000 ms)
 ---------------------------------------------------------
 4. PetScreenForm.cs KODLARI
 ---------------------------------------------------------
-
+```csharp
 using System;
 using System.Windows.Forms;
 
@@ -202,7 +202,7 @@ namespace VirtualCatSimulator
         }
     }
 }
-
+```
 ---------------------------------------------------------
 5. Form1 (ANA MENÜ) OLUŞTURMA
 ---------------------------------------------------------
@@ -214,7 +214,7 @@ Form1 üzerine iki buton ekleyin:
 ---------------------------------------------------------
 6. Form1.cs KODLARI
 ---------------------------------------------------------
-
+```csharp
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -249,7 +249,7 @@ namespace VirtualCatSimulator
         }
     }
 }
-
+```
 ---------------------------------------------------------
 7. UYGULAMAYI ÇALIŞTIR
 ---------------------------------------------------------
