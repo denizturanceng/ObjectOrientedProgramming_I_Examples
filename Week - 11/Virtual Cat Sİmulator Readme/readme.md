@@ -1,15 +1,14 @@
-# Virtual Cat Simulator – C# WinForms DIY Lab
+# VIRTUAL CAT SIMULATOR – C# WINFORMS DIY LAB
 
-Bu DIY (Do It Yourself) laboratuvar çalışmasında C# Windows Forms ve Nesneye Yönelik Programlama (OOP) tekniklerini kullanarak basit bir Sanal Kedi Simülatörü geliştireceksiniz.
+Bu laboratuvar çalışmasında C# Windows Forms ve Nesneye Yönelik Programlama (OOP) tekniklerini kullanarak basit bir Sanal Kedi Simülatörü geliştireceğiz.
 
 ---------------------------------------------------------
 0. PROJE OLUŞTURMA
 ---------------------------------------------------------
 1. Visual Studio → File → New → Project
-2. “Windows Forms App (.NET Framework)” seçin
+2. “Windows Forms App (.NET Framework)” şablonunu seçin
 3. Proje adı: VirtualCatSimulator
 4. Oluşturun
-
 
 ---------------------------------------------------------
 1. VirtualCat.cs (OOP Sınıf Tasarımı)
@@ -17,64 +16,69 @@ Bu DIY (Do It Yourself) laboratuvar çalışmasında C# Windows Forms ve Nesneye
 
 Solution Explorer → Add → Class → VirtualCat.cs
 
-Kodları:
+Aşağıdaki kodu ekleyin:
 
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace VirtualCatSimulator
 {
     public class VirtualCat
     {
-        private string _name;
-        private int _hunger;
-        private int _energy;
-        private int _playfulness;
+        // Kedinin adı
+        public string Name { get; set; }
 
-        public string Name
-        {
-            get => _name;
-            set => _name = value;
-        }
+        // Açlık değeri
+        public int Hunger { get; private set; }
 
-        public int Hunger => _hunger;
-        public int Energy => _energy;
-        public int Playfulness => _playfulness;
+        // Enerji değeri
+        public int Energy { get; private set; }
 
+        // Oynama isteği
+        public int Playfulness { get; private set; }
+
+        // Constructor – kedi oluşturulduğunda başlangıç değerleri verilir
         public VirtualCat(string name)
         {
-            _name = name;
-            _hunger = 80;        
-            _energy = 80;        
-            _playfulness = 80;   
+            Name = name;
+            Hunger = 80;
+            Energy = 80;
+            Playfulness = 80;
         }
 
+        // Yemek verildiğinde açlık artar
         public void Feed()
         {
-            _hunger = Math.Min(100, _hunger + 20);
+            Hunger = Math.Min(100, Hunger + 20);
         }
 
+        // Oyun oynadığında oyun isteği artar
         public void Play()
         {
-            _playfulness = Math.Min(100, _playfulness + 20);
+            Playfulness = Math.Min(100, Playfulness + 20);
         }
 
+        // Uyuduğunda enerji artar
         public void Sleep()
         {
-            _energy = Math.Min(100, _energy + 25);
+            Energy = Math.Min(100, Energy + 25);
         }
 
+        // Her saniye geçen süreye göre statlar azalır
         public void Tick()
         {
-            _hunger = Math.Max(0, _hunger - 5);
-            _energy = Math.Max(0, _energy - 3);
-            _playfulness = Math.Max(0, _playfulness - 4);
+            Hunger = Math.Max(0, Hunger - 10);
+            Energy = Math.Max(0, Energy - 5);
+            Playfulness = Math.Max(0, Playfulness - 20);
         }
     }
 }
 
-
 ---------------------------------------------------------
-2. KEDİ GÖRSELLERİNİ EKLEYİN
+2. KEDİ GÖRSELLERİNİ EKLE
 ---------------------------------------------------------
 
 1. Solution Explorer → Properties
@@ -83,10 +87,10 @@ namespace VirtualCatSimulator
    - happy_cat.png
    - sad_cat.png
 
-Kodda şu şekilde kullanılır:
+Kod içinde şöyle kullanılır:
+
 Properties.Resources.happy_cat
 Properties.Resources.sad_cat
-
 
 ---------------------------------------------------------
 3. PetScreenForm OLUŞTURMA
@@ -94,18 +98,17 @@ Properties.Resources.sad_cat
 
 Solution Explorer → Add → Windows Form → PetScreenForm.cs
 
-Bu form üzerine şunları ekleyin:
+Bu forma şu nesneleri yerleştirin:
 
-PictureBox → pictureBoxCat  
+PictureBox  → pictureBoxCat  
 ProgressBar → progressHunger  
 ProgressBar → progressEnergy  
 ProgressBar → progressPlay  
-Button → btnFeed  
-Button → btnSleep  
-Button → btnPlay  
-Button → btnBack  
-Timer → timerStats (Interval: 3000)
-
+Button      → btnFeed  
+Button      → btnSleep  
+Button      → btnPlay  
+Button      → btnBack  
+Timer       → timerStats (Interval: 1000 ms)
 
 ---------------------------------------------------------
 4. PetScreenForm.cs KODLARI
@@ -118,21 +121,26 @@ namespace VirtualCatSimulator
 {
     public partial class PetScreenForm : Form
     {
+        // Kedi nesnesi burada tutulur
         private VirtualCat cat;
 
         public PetScreenForm()
         {
             InitializeComponent();
 
+            // Tekir adlı bir kedi oluşturulur
             cat = new VirtualCat("Tekir");
 
-            timerStats.Interval = 3000; 
-            timerStats.Start();
+            // Timer ayarları
+            timerStats.Interval = 1000;   // Her 1 saniyede bir tetiklenecek
+            timerStats.Start();          // Timer başlatılır
 
+            // İlk değerlerin ekrana basılması
             UpdateBars();
             UpdateCatImage();
         }
 
+        // ProgressBar değerlerini günceller
         private void UpdateBars()
         {
             progressHunger.Value = cat.Hunger;
@@ -140,21 +148,28 @@ namespace VirtualCatSimulator
             progressPlay.Value = cat.Playfulness;
         }
 
+        // Kedinin hangi resmin gösterileceğini belirler
         private void UpdateCatImage()
         {
             if (cat.Hunger < 30 || cat.Energy < 30 || cat.Playfulness < 30)
-                pictureBoxCat.Image = Properties.Resources.sad_cat;
+            {
+                pictureBoxCat.Image = Properties.Resources.sad_cat; // Üzgün kedi
+            }
             else
-                pictureBoxCat.Image = Properties.Resources.happy_cat;
+            {
+                pictureBoxCat.Image = Properties.Resources.happy_cat; // Mutlu kedi
+            }
         }
 
+        // Her saniye çalışan timer statları azaltır
         private void timerStats_Tick(object sender, EventArgs e)
         {
-            cat.Tick();
-            UpdateBars();
-            UpdateCatImage();
+            cat.Tick();        // Kedi statları düşer
+            UpdateBars();      // ProgressBar güncellenir
+            UpdateCatImage();  // Görsel güncellenir
         }
 
+        // Yemek butonuna basıldığında çalışır
         private void btnFeed_Click(object sender, EventArgs e)
         {
             cat.Feed();
@@ -162,6 +177,7 @@ namespace VirtualCatSimulator
             UpdateCatImage();
         }
 
+        // Uyutma butonuna basıldığında çalışır
         private void btnSleep_Click(object sender, EventArgs e)
         {
             cat.Sleep();
@@ -169,6 +185,7 @@ namespace VirtualCatSimulator
             UpdateCatImage();
         }
 
+        // Oynatma butonuna basıldığında çalışır
         private void btnPlay_Click(object sender, EventArgs e)
         {
             cat.Play();
@@ -176,30 +193,36 @@ namespace VirtualCatSimulator
             UpdateCatImage();
         }
 
+        // Geri dön butonu
         private void btnBack_Click(object sender, EventArgs e)
         {
-            Form1 mainForm = new Form1();
+            Form1 mainForm = new Form1(); // Yeni ana menü formu açılır
             mainForm.Show();
-            this.Close();
+            this.Close(); // Bu form kapatılır
         }
     }
 }
 
-
 ---------------------------------------------------------
-5. Form1 (ANA MENÜ)
+5. Form1 (ANA MENÜ) OLUŞTURMA
 ---------------------------------------------------------
 
-Form1’e iki buton ekleyin:
+Form1 üzerine iki buton ekleyin:
 - btnStart
 - btnExit
-
 
 ---------------------------------------------------------
 6. Form1.cs KODLARI
 ---------------------------------------------------------
 
 using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace VirtualCatSimulator
@@ -211,13 +234,15 @@ namespace VirtualCatSimulator
             InitializeComponent();
         }
 
+        // START butonu tıklanınca oyun ekranı açılır
         private void btnStart_Click(object sender, EventArgs e)
         {
-            PetScreenForm petForm = new PetScreenForm();
-            petForm.Show();
-            this.Hide();
+            PetScreenForm petForm = new PetScreenForm(); // Kedi ekranı oluşturulur
+            petForm.Show();   // Kedi ekranı açılır
+            this.Hide();      // Ana menü gizlenir
         }
 
+        // EXIT butonu tıklanınca uygulama kapanır
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -225,24 +250,20 @@ namespace VirtualCatSimulator
     }
 }
 
-
 ---------------------------------------------------------
-7. ÇALIŞTIRIN
+7. UYGULAMAYI ÇALIŞTIR
 ---------------------------------------------------------
 
-- Form1 başlangıç formu olsun
-- Start → kedi ekranı açılır
-- Feed / Sleep / Play → stat yükseltir
-- Timer → statları düşürür
-- Stat < 30 → üzgün kedi
-- Back → ana menüye dönüş
+- Form1 başlangıç formu olmalı
+- START → kedi ekranı açılır
+- Feed, Sleep, Play → stat yükseltir
+- Timer → statları azaltır
+- Stat < 30 → kedi üzgün görünür
+- Back → Form1’e döner
 - Exit → uygulamayı kapatır
 
-
 ---------------------------------------------------------
-TAMAMLANDI!
+TAMAMLANDI
 ---------------------------------------------------------
-Bu lab ile:
-OOP – Encapsulation – Constructor – WinForms – Timer – Form navigation
-konularını tamamlamış oldunuz.
+Bu çalışmada OOP, Windows Forms, Timer mantığı ve Form geçişlerini uygulamalı olarak öğrendiniz.
 
