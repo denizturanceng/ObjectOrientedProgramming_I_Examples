@@ -264,6 +264,3 @@ namespace VirtualCatSimulator
 
 ---------------------------------------------------------
 TAMAMLANDI
----------------------------------------------------------
-Bu çalışmada OOP, Windows Forms, Timer mantığı ve Form geçişlerini uygulamalı olarak öğrendiniz.
-

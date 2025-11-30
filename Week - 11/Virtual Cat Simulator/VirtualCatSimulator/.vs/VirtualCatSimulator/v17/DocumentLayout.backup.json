@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:petscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 11\\virtual cat simulator\\virtualcatsimulator\\petscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:petscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 11\\virtual cat simulator\\virtualcatsimulator\\virtualcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\virtualcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:virtualcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 11\\virtual cat simulator\\virtualcatsimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\petscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:petscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|c:\\users\\deniz\\desktop\\github\\dersler\\objectorientedprogramming_i_examples\\week - 11\\virtual cat simulator\\virtualcatsimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EEAF41D9-0751-4155-A234-545D17513B3A}|VirtualCatSimulator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,9 +38,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T18:05:55.259Z",
               "EditorCaption": ""
@@ -51,34 +51,34 @@
               "Title": "PetScreenForm.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs",
               "RelativeDocumentMoniker": "PetScreenForm.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs*",
-              "RelativeToolTip": "PetScreenForm.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs",
+              "RelativeToolTip": "PetScreenForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T17:50:16.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PetScreenForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs",
               "RelativeDocumentMoniker": "PetScreenForm.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs [Design]*",
-              "RelativeToolTip": "PetScreenForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\PetScreenForm.cs [Design]",
+              "RelativeToolTip": "PetScreenForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T17:39:56.099Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "VirtualCat.cs",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\VirtualCat.cs",
               "RelativeDocumentMoniker": "VirtualCat.cs",
               "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\VirtualCat.cs",
               "RelativeToolTip": "VirtualCat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T17:34:11.923Z",
               "EditorCaption": ""
@@ -89,8 +89,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Github\\Dersler\\ObjectOrientedProgramming_I_Examples\\Week - 11\\Virtual Cat Simulator\\VirtualCatSimulator\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T17:32:43.49Z",
               "EditorCaption": " [Design]"
